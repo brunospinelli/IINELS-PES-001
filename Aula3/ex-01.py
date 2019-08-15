@@ -1,20 +1,20 @@
 '''
-Calculo do IMC
+Calculo do IMC:
 imc = (peso)/(altura)^2
 
-Muito abaixo do peso
+Muito abaixo do peso:
 imc <= 17.0
 
-Peso abaixo do normal
+Peso abaixo do normal:
 17.0 < imc <= 18.5
 
-Peso normal
+Peso normal:
 18.5 < imc <= 25.0
 
-Acima do peso normal
+Acima do peso normal:
 25.0 < imc <= 30.0
 
-Muito acima do peso
+Muito acima do peso:
 imc > 30.0
 
 '''
