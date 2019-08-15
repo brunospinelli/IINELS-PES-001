@@ -19,3 +19,6 @@ print(varInt)
 print(varFloat)
 
 print(varBool)
+
+# Printa os tipos das variáveis
+print(type(varFloat)) # Printa o tipo da variável varFloat
