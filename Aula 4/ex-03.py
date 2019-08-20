@@ -18,6 +18,7 @@ Muito acima do peso:
 imc > 30.0
 
 '''
+
 # Calcula o IMC, dado um peso (Kg) e uma altura (m), e retorna o valor do IMC.
 def calcula_imc(peso, altura):
   imc = (peso/(altura)**2)
